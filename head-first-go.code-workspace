@@ -1,0 +1,44 @@
+{
+	"folders": [
+		{
+			"name": "ch1",
+			"path": "ch1"
+		},
+		{
+			"name": "ch2",
+			"path": "ch2"
+		},
+		{
+			"name": "ch3",
+			"path": "ch3"
+		},
+		{
+			"name": "ch4",
+			"path": "ch4"
+		},
+		{
+			"name": "ch5",
+			"path": "ch5"
+		},
+		{
+			"name": "ch6",
+			"path": "ch6"
+		},
+		{
+			"name": "ch7",
+			"path": "ch7"
+		},
+		{
+			"name": "ch8",
+			"path": "ch8"
+		},
+		{
+			"name": "ch9",
+			"path": "ch9"
+		},
+		{
+			"name": "go-modules",
+			"path": "go-modules"
+		}
+	]
+}
