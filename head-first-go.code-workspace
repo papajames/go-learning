@@ -41,6 +41,10 @@
 			"path": "ch10"
 		},
 		{
+			"name": "ch11",
+			"path": "ch11"
+		},
+		{
 			"name": "go-modules",
 			"path": "go-modules"
 		}
